@@ -108,12 +108,12 @@ Celulares: Resoluções abaixo de 768px.
 
 - ## Tecnologias Utilizadas
 
-**HTML5**: Para a estrutura semântica.
+> **HTML5**: Para a estrutura semântica.
 
-**CSS3**: Para estilização e responsividade.
+> **CSS3**: Para estilização e responsividade.
 
-**JavaScript**: Para lógica de interatividade.
+> **JavaScript**: Para lógica de interatividade.
 
-**Google Fonts**: Fontes personalizadas (Montserrat, Unbounded e Prata).
+> **Google Fonts**: Fontes personalizadas (Montserrat, Unbounded e Prata).
 
-**Reset CSS**: Normalização dos estilos entre navegadores.
+> **Reset CSS**: Normalização dos estilos entre navegadores.
